@@ -7,6 +7,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="mybatis-mapper" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -60,7 +68,7 @@
       <updated>1616390259046</updated>
       <workItem from="1616390260720" duration="756000" />
       <workItem from="1616398711057" duration="3385000" />
-      <workItem from="1616462735747" duration="1229000" />
+      <workItem from="1616462735747" duration="1531000" />
     </task>
     <servers />
   </component>
